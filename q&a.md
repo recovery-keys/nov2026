@@ -76,7 +76,7 @@
 | 72 | panchi roll is from  | image/word  | 
 | 73 | type of the dog breed in kalua's place ? | single word |
 | 74 | place after left pabs house has too many ______ | plural word |
-| 75 | resembles the both owners of the sheep next door | single word |
+| 75 | gontabazz had ___ allegations  | single word |
 | 76 | james kuka's 1st name _____ | single word |
 | 77 | dna-rna-sequencing is from ___ | image/word |
 | 78 | old-acer laptop cover sticker | image |
@@ -86,18 +86,18 @@
 | 82 | Sultan Farid is from _____ country | image |
 | 83 | Queen Anne is from _____ country | image |
 | 84 | breed of the cat suduammi  | single word |
-| 85 | ict case complaint was made when we were in ____? | name of the suburb |
+| 85 | ict case complaint was made when we were in ____? | suburb |
 | 86 | country of the - best salsa teacher | image |
 | 87 | IDM 1st batch number   | number  | 
-| 88 | country of the - best bjj teacher | abbreviation |
+| 88 | country of the - best bjj teacher | image |
 | 89 | HC case went for over ____ years. | number |
 | 90 | first name - mountain guid we 1st did alpine training  | single word |
-| 91 | n's father's perfume?  | image  | 
+| 91 | n's father's car was made in year ____  | number  | 
 | 92 | 1st overnight hike was with ____ & bada das.  | single word  | 
 | 93 | 1st overnight hike confrontation was due to ___ ____.  | two words | 
 | 94 | n was born in ____.  | number | 
 | 95 | n's 1st pre-school teacher ____.  | single word | 
-| 96 | 1st bank account name.  | two words | 
-| 97 | first apartment was on ____ floor.  | single words | 
+| 96 | I's 1st credit card amount .  | number | 
+| 97 | family apartment was on ____ floor.  | single words | 
 | 98 | N started 1st job in year.  | number | 
 | 99 | n's first school friend is from _____  | single work | 
