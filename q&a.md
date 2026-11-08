@@ -8,7 +8,7 @@
 | 4  | Kiri. Denim center was located in : ___ floor | single word | 
 | 5  | N was I's __ GF |  number | 
 | 6  | the currency I put to acx is worth 5000 AUD ? | abbreviation | 
-| 7  | place where Rasika and Priyantha worked? | two words  | 
+| 7  | place where Rasika and Priyantha worded? | two words  | 
 | 8  | i's first bjj club? | abbreviations  |  
 | 9  | first, we went to event : ____ with hunter & xanths in the morning. | two words  | 
 | 10 | 1st name of the tattoo artist who did I's 1st tattoo | single word  | 
@@ -20,11 +20,11 @@
 | 16 | n & i's 1st theme park was a success due to  | single word  | 
 | 17 | i's common bjj submission  | two words  | 
 | 18 | i & n's 1st yachting experience - boat owner's wife is from?  | single word  | 
-| 19 | i & n's 1st yachting experience - boat owner's was from?  | image | 
+| 19 | i & n's 1st yachting experience - boat owner's was from?  | image/single word | 
 | 20 | i & n's 1st yachting experience - i was infected with?  | single word  | 
 | 21 | i & n first met at  | location  | 
-| 22 | pab's was initially fed with  | single word  | 
-| 23 | sob's mother's rapist  | image/word  | 
+| 22 | pab's was initially fed with ___ | single word  | 
+| 23 | sob's mother's rapist was a ____ | image/single word  | 
 | 24 | i bought ____ dollars when leaving home country | number  | 
 | 25 | i bought a ___ when arriving in au which was confiscated  | double word  | 
 | 26 | i's favourite drink?  | single word  | 
@@ -44,52 +44,52 @@
 | 40 | 1st government vehicle in Rathmalana?  | double words  | 
 | 41 | sob's uni. number  | number  | 
 | 42 | year I met my mom?   | number  | 
-| 43 | the brand of the 1st item SOB stall from me?  | single word  | 
+| 43 | the country where i & n's diploma was affiliated to ____.  | image/single word  | 
 | 44 | year i was admitted to my 1st university  | number  | 
 | 45 | bjj Benjamin's home country flag colours?  | multiple words  | 
 | 46 | first name - best bjj teacher | single word |
 | 47 | breed of the brother who came to inform pabs about they are living?   | single word  | 
-| 48 | bank ICT case payment was paid. | image |
+| 48 | bank ICT case payment was paid. | image/single word |
 | 49 | xanthan and the hunter were met using ______ app. | abbreviation |
-| 50 | Jack & Rose is from (country) ? | image |
+| 50 | Jack & Rose is from (country) ? | image/single word |
 | 51 | name of the store caught me steeling and dracular was an employee of. | name of the store |
 | 52 | first name - best salsa teacher | single word |
 | 53 | when i went to police due to ict case, i was infected with _____?   | name of the disease |
 | 54 | i met the lecturere who borrowed 10k from me when i was in _____? | name of the suberb |
 | 55 | i met lankanatha in ____? | suberb |
-| 56 | lankanath helped me to get prep. for ____ exam. | abbreviation |
+| 56 | I's first diploma after the university was ? | abbreviation |
 | 57 | i met the lecture who recomend me to become a teacher when I was studying at ___ | abbreviation |
 | 58 | hc case was finished in year ____? | number |
 | 59 | hc case started in year _____? | number |
-| 60 | hc case weapon | image  |
+| 60 | hc case weapon | image/single word  |
 | 61 | junior lawyer who draged ict and hc case was from ____?  | name of the suberb |
-| 62 | resembles pabs in color | image  |
+| 62 | resembles pabs in color | image/single word  |
 | 63 | Lake Ellio _____ was located in which state? | single word |
 | 64 | i's 1st pc was bought from ____ (shop name) | single word  |
 | 65 | HC case ended in | key |
-| 66 | got caught when i bought a ____ when i first arrived. | image  |
+| 66 | I bought a ____ on arrival and got confescated. | image/single word  |
 | 67 | name of the i & n's favourite jungle when we 1st met. | single word | 
 | 68 | chaminda was killed in _____ prision. | name of the suberb |
 | 69 | priyantha was killed in _____ prision. | name of the suberb |
-| 70 | country of the mountain guid we 1st did alphine training  | image |
+| 70 | country of the mountain guid we 1st did alphine training  | image/single word |
 | 71 | i was infected before got involved in ict case ?  | single word  | 
-| 72 | panchi roll is from  | image/word  | 
+| 72 | panchi roll is from  | image/single image/single word  | 
 | 73 | type of the dog breed in kalua's place ? | single word |
 | 74 | place after left pabs house has too many ______ | plural word |
 | 75 | gontabazz had ___ allegations  | single word |
 | 76 | james kuka's 1st name _____ | single word |
-| 77 | dna-rna-sequencing is from ___ | image/word |
-| 78 | old-acer laptop cover sticker | image |
+| 77 | dna-rna-sequencing is from ___ | image/single image/single word |
+| 78 | old-acer laptop cover sticker | image/single word |
 | 79 | We camped at lake Ellio _____ | single word |
 | 80 | website name who taught us 1st subject | single word  |
-| 81 | With Sultan Farid & queen Anne we had ____ BBQ | image |
-| 82 | Sultan Farid is from _____ country | image |
-| 83 | Queen Anne is from _____ country | image |
+| 81 | With Sultan Farid & queen Anne we had ____ BBQ | image/single word |
+| 82 | Sultan Farid is from _____ country | image/single word |
+| 83 | Queen Anne is from _____ country | image/single word |
 | 84 | breed of the cat suduammi  | single word |
 | 85 | ict case complaint was made when we were in ____? | suburb |
-| 86 | country of the - best salsa teacher | image |
+| 86 | country of the - best salsa teacher | image/single word |
 | 87 | IDM 1st batch number   | number  | 
-| 88 | country of the - best bjj teacher | image |
+| 88 | country of the - best bjj teacher | image/single word |
 | 89 | HC case went for over ____ years. | number |
 | 90 | first name - mountain guid we 1st did alpine training  | single word |
 | 91 | n's father's car was made in year ____  | number  | 
@@ -100,4 +100,10 @@
 | 96 | I's 1st credit card amount .  | number | 
 | 97 | family apartment was on ____ floor.  | single words | 
 | 98 | N started 1st job in year.  | number | 
-| 99 | n's first school friend is from _____  | single work | 
+| 99 | n's first school friend is from _____  | single word | 
+| 100 | I watch Speed movie in _____ cinama  | single word |
+| 101 | lankanath helped I to get prep. for ____ exam. | abbreviation |
+| 102 | i & n both did a diploma in ____.  | single word  | 
+| 103 | the brand of the 1st item SOB stall from me?  | single word  | 
+| 104 | I' 1st snow experience was at ____  | single word  | 
+| 105 | N' 1st snow experience was at ____  | single word  | 
